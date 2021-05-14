@@ -1,2 +1,2 @@
-# intern-on-spark
+# intern-on-sparks foundation
 web development intern
